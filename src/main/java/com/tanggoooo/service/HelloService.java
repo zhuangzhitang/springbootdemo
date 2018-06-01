@@ -1,4 +1,4 @@
 package com.tanggoooo.service;
 
-public class HelloServicegit  {
+public class HelloService {
 }
