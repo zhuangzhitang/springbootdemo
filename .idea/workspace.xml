@@ -148,8 +148,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="523" />
-    <option name="y" value="93" />
+    <option name="x" value="337" />
+    <option name="y" value="45" />
     <option name="width" value="1904" />
     <option name="height" value="996" />
   </component>
@@ -328,30 +328,30 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/tanggoooo/aop/ErrorAspect.java</url>
+          <url />
           <line>54</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/tanggoooo/controller/HelloWorldController.java</url>
+          <url />
           <line>16</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/tanggoooo/aop/ErrorAspect.java</url>
+          <url />
           <line>56</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/tanggoooo/aop/ErrorAspect.java</url>
+          <url />
           <line>58</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/tanggoooo/aop/ErrorAspect.java</url>
+          <url />
           <line>32</line>
           <properties />
           <option name="timeStamp" value="4" />
